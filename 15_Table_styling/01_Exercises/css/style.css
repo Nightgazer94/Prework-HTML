@@ -1,0 +1,23 @@
+body {
+    padding:20px;
+    font-family: sans-serif;
+}
+
+.tab {
+    border-collapse: collapse;
+    border: 1px solid #000;
+
+}
+
+th {
+    border: 1px solid #aaa;
+    background-color: gold;
+    padding: 20px;
+}
+
+td {
+    border: 1px solid #aaa;
+    padding: 20px;
+}
+
+
